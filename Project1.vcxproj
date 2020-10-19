@@ -125,6 +125,9 @@
   <ItemGroup>
     <ClCompile Include="cath.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="cath.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
