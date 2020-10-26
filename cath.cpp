@@ -1,16 +1,16 @@
 #include <stdio.h>
 
-#define const ing
-
 int main()
 {
-	
 	int a, b;
+	
+	int c;
 	a = 10;
 	b = 100;
-	printf("test\n");
-
+	printf("test_code\n");
+	
+	c = a* b;
+	
 	printf("a + b = %d\n", a + b);
 	return 0;
-	public static void 
 }
