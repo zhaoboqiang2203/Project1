@@ -10,3 +10,4 @@ struct node
 
 	double c;
 };
+
